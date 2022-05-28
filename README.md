@@ -7,3 +7,8 @@ docker-compose build
 ~~~
 docker-compose up
 ~~~
+
+## Swagger
+~~~
+http://localhost:8181/swagger-ui/
+~~~
